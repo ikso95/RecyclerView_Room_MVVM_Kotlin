@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Notes</string>
+    <string name="imie">Wprowadź imię</string>
+    <string name="nazwisko">Wprowadź nazwisko</string>
+    <string name="pesel">Wprowadź PESEL</string>
+    <string name="dodaj">Dodaj</string>
+    <string name="pokaz">Pokaż</string>
+    <string name="usun_dane">Usuń dane</string>
+</resources>
